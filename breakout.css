@@ -1,0 +1,16 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+    text-align: center
+}
+
+h1 {
+    margin: 20px
+}
+
+canvas { 
+    background: lightcoral; 
+    display: block; 
+    margin: 0 auto; 
+    border: 2px solid black
+}
